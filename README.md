@@ -295,3 +295,9 @@ Projeto desenvolvido para fins acadêmicos e prática de desenvolvimento front-e
 Este projeto possui finalidade educacional.
 
 Uso livre para estudos e aprendizado.
+
+---
+
+# Link do Figma
+
+https://www.figma.com/design/oijevNcebeqsQqhqZ0wXTE/biolima---landpage?node-id=5-456&t=MuzKrLK52YQcF2LO-1
